@@ -48,6 +48,8 @@ body {
     line-height: 1;
     background: url(../img/롯데시네마/lottebackgroundblack.jpg)no-repeat;
     font-family: 'NanumBarunGothic', sans-serif;
+    min-width: 1920px;
+    width:100%;
 }
 
 
